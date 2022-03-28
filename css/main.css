@@ -17,3 +17,12 @@ body {
 h1, h2, dt {
   font-style: italic;
 }
+
+h1 {
+  font-size: 1.7rem;
+  margin-bottom: 2rem;
+}
+
+h2 {
+  font-size: 1.3rem;
+}
